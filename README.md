@@ -1,1 +1,1 @@
-# Minimum-Loss-algo
+# Minimum-Loss-algo It finds the smallest possible financial loss when buying a house one year and selling it in a later year. The function compares prices with their original order, ensuring the buy happens before the sell, and calculates the minimum positive difference between those prices.
